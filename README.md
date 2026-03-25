@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+tiktok-recharge-ui
 <html>
 <head>
   <title>Coin Recharge</title>
